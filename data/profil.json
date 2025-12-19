@@ -1,0 +1,630 @@
+[
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "автоматизация бизнес-процессов"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "автономные транспортные системы"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "аграрная генетика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "академический рисунок",
+      "null": [
+        " живопись",
+        " композиция",
+        " история искусства и культуры"
+      ]
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "анализ данных"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "архитектура",
+      "null": [
+        " изобразительные и прикладные виды искусств"
+      ]
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "астрономия"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "беспилотный транспорт: аэрокосмические системы",
+      "null": [
+        " беспилотные авиационные системы",
+        " водные робототехнические системы",
+        " летающая робототехника"
+      ]
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "биология"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "большие данные и машинное обучение"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "вероятность и статистика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "виртуальные миры: разработка компьютерных игр",
+      "null": [
+        " технологии виртуальной реальности",
+        " технологии дополненной реальности",
+        " цифровые технологии в архитектуре"
+      ]
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "востоковедение"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "восточные языки"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "высокие технологии"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "генетика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "геномное редактирование"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "география"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "геология"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "графика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "графический дизайн"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "гуманитарные и социальные науки"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "деревянные духовые инструменты"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "дизайн"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "естественные науки"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "журналистика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "изобразительное искусство"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "инженерное дело"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "инженерные биологические системы"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "инженерные науки"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "инженерные системы"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "иностранный язык"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "инструменты народного оркестра"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "интеллектуальные робототехнические системы"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "интеллектуальные энергетические системы"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "информатика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "информатика и программирование"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "информационная безопасность"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "информационные и коммуникационные технологии"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "инфохимия"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "искусственный интеллект"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "искусство"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "история"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "история искусств"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "квантовый инжиниринг"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "композиция"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "компьютерная безопасность"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "компьютерное моделирование и графика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "космические системы: анализ космических снимков и геопространственных данных",
+      "null": [
+        " спутниковые системы"
+      ]
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "космонавтика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "культурология"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "лингвистика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "литература"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "математика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "математическое моделирование и искусственный интеллект"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "медицина"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "международные отношения"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "международные отношения и глобалистика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "механика и математическое моделирование"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "музыкальная педагогика и исполнительство"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "наносистемы и химический инжиниринг"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "научно-технический"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "нейротехнологии и когнитивные науки"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "обществознание"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "основы бизнеса"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "основы православной культуры"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "основы российской государственности"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "политология"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "право"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "предпрофессиональная"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "программная инженерия в финансовых технологиях"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "промышленное программирование"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "психология"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "разработка мобильных приложений"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "религиоведение"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "рисунок"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "рисунок",
+      "null": [
+        " живопись",
+        " композиция",
+        " черчение"
+      ]
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "рисунок",
+      "null": [
+        " живопись",
+        " скульптура",
+        " дизайн"
+      ]
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "робототехника"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "родные языки"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "русский язык"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "социология"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "струнные инструменты"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "теория и история музыки"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "техника и технологии"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "технический рисунок и декоративная композиция"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "технологии беспроводной связи"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "умные системы и технологии: умный город",
+      "null": [
+        " цифровые сенсорные системы"
+      ]
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "физика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "филология"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "философия"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "финансовая безопасность"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "финансовая грамотность"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "фортепиано"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "химия"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "хоровое дирижирование"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "экология"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "экономика"
+    }
+  },
+  {
+    "model": "core.profil",
+    "fields": {
+      "name": "ядерные технологии"
+    }
+  }
+]

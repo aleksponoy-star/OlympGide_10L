@@ -1,0 +1,710 @@
+[
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " авиационная и ракетно-космическая техника"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " автоматизация и управление технологическими процессами и производствами"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " архитектура"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " астрономия"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " аэронавигация и эксплуатация авиационной и ракетно-космической техники"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " биологические науки"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " биотехнология"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " ветеринария и зоотехния"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " горное дело"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " градостроительство"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " декоративно-прикладное искусство и народные промыслы"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " дизайн"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " дизайн архитектурной среды"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " изобразительное и прикладные виды искусств"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " иностранный язык"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " информатика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " информатика и вычислительная техника"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " информационная безопасность"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " информационные системы и технологии"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " искусство костюма и текстиля"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " история"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " компьютерные и информационные науки"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " конструирование изделий легкой промышленности"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " культуроведение и социокультурные проекты"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " лесное и рыбное хозяйство"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " литература"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " математика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " математика и механика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " машиностроение"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " нанотехнологии и наноматериалы"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " науки о земле"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " нефтегазовое дело и геодезия"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " образование и педагогические науки"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " обществознание"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " оптические и биотехнические системы и технологии"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " оружие и системы вооружения"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " политические науки и регионоведение"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " приборостроение"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " прикладная геология"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " прикладная информатика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " промышленная экология и биотехнологии"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " профессиональное обучение (по отраслям)"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " психологические науки"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " радиотехника и системы связи"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " русский язык"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " сельское"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " сестринское дело"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " теология"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " техника и технологии кораблестроения и водного транспорта"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " техника и технологии наземного транспорта"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " техника и технологии строительства"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " технологии и проектирование текстильных изделий"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " технологии легкой промышленности"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " технологии материалов"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " технология изделий легкой промышленности"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " технология полиграфического и упаковочного производства"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " технология художественной обработки материалов"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " техносферная безопасность и природообустройство"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " управление в технических системах"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " фармация"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " физика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " физико-технические науки и технологии"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " фотоника"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " химическая технология"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " химические технологии"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " химия"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " экономика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " экономика и управление"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " электро- и теплоэнергетика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " электроника"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " этика и религиоведение"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " ядерная энергетика и технологии"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": " языкознание и литературоведение"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "архитектура"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "астрономия"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "биологические науки"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "биология"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "востоковедение и африканистика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "география"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "декоративно-прикладное искусство и народные промыслы"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "дизайн"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "изобразительное и прикладные виды искусств"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "иностранный язык"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "информатика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "информатика и вычислительная техника"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "информационная безопасность"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "искусство"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "искусствознание"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "история"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "клиническая медицина"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "компьютерные и информационные науки"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "культуроведение и социокультурные проекты"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "литература"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "математика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "математика и механика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "машиностроение"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "музыкальное искусство"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "нанотехнологии и наноматериалы"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "науки о земле"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "образование и педагогические науки"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "обществознание"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "политические науки и регионоведение"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "политология"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "право"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "психологические науки"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "русский язык"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "социология и социальная работа"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "средства массовой информации и информационно-библиотечное дело"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "технологии материалов"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "физика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "философия"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "фотоника"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "химия"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "экономика"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "экономика и управление"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "электроника"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "юриспруденция"
+    }
+  },
+  {
+    "model": "core.predmet",
+    "fields": {
+      "name": "языкознание и литературоведение"
+    }
+  }
+]
