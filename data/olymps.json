@@ -1,0 +1,583 @@
+[
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Финатлон для старшеклассников - Всероссийская олимпиада по финансовой грамотности, устойчивому развитию и защите прав потребителей финансовых услуг",
+      "url": "https://fin-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Формула Единства/Третье тысячелетие",
+      "url": "https://formulo.org"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "XVIII Южно-Российская межрегиональная олимпиада школьников \"Архитектура и искусство\" по комплексу предметов (рисунок, живопись, композиция, черчение)",
+      "url": "https://arh.olymp.sfedu.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийская академическая олимпиада школьников имени В.И. Вернадского",
+      "url": "https://vernadsky-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийская междисциплинарная олимпиада школьников 8–11 классов \"Национальная технологическая олимпиада\"",
+      "url": "https://ntcontest.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийская олимпиада по агрогенетике для школьников старших классов \"Иннагрика\"",
+      "url": "https://innagrika.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийская олимпиада по искусственному интеллекту",
+      "url": "https://ai-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийская олимпиада школьников \"Высшая проба\"",
+      "url": "https://olymp.hse.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийская олимпиада школьников \"Миссия выполнима. Твое призвание – финансист!\"",
+      "url": "https://finance-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийская олимпиада школьников \"Юридические высоты!\"",
+      "url": "https://law-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийская Сеченовская олимпиада школьников",
+      "url": "https://olympiad.sechenov.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийская Толстовская олимпиада школьников",
+      "url": "https://tolstoy-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всероссийский конкурс научных работ школьников \"Юниор\"",
+      "url": "https://junior.science"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Всесибирская открытая олимпиада школьников",
+      "url": "https://vsosh.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Вузовско-академическая олимпиада по информатике",
+      "url": "https://vao-it.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Герценовская олимпиада школьников",
+      "url": "https://olymp.herzen.spb.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Городская открытая олимпиада школьников по физике",
+      "url": "https://physolymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Инженерная олимпиада школьников",
+      "url": "https://engolymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Интернет-олимпиада школьников по физике",
+      "url": "https://distolymp.spb.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Кутафинская олимпиада школьников по праву",
+      "url": "https://msal.ru/olymp"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Международная музыкальная олимпиада",
+      "url": "https://musical-olympiad.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Международная олимпиада \"Innopolis Open\"",
+      "url": "https://innopolis.university/olympiad"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Международная олимпиада по финансовой безопасности",
+      "url": "https://fincup.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Международная олимпиада школьников \"Евразийская лингвистическая олимпиада\"",
+      "url": "https://elo.linguanet.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Международная олимпиада школьников \"Искусство графики\"",
+      "url": "https://graphic-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Международная олимпиада школьников УрФУ \"Изумруд\"",
+      "url": "https://izumrud.urfu.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Межрегиональная олимпиада по праву \"ФЕМИДА\"",
+      "url": "https://femida-law.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Межрегиональная олимпиада школьников \"Архитектура и искусство\" (рисунок, композиция)",
+      "url": "https://arh.olymp.sfedu.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Межрегиональная олимпиада школьников \"Будущие исследователи – будущее науки\"",
+      "url": "https://future-science.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Межрегиональная олимпиада школьников имени В.Е. Татлина",
+      "url": "https://tatlin-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Межрегиональная олимпиада школьников имени И.Я. Верченко",
+      "url": "https://verchenko-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Межрегиональная олимпиада школьников на базе ведомственных образовательных организаций",
+      "url": ""
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Межрегиональная химическая олимпиада школьников имени академика П.Д. Саркисова",
+      "url": "https://sarkisov-chem.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Межрегиональные предметные олимпиады КФУ",
+      "url": "https://kpfu.ru/olympiad"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Многопредметная олимпиада \"Юные таланты\"",
+      "url": "https://utalents.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Многопрофильная инженерная олимпиада \"Звезда\"",
+      "url": "https://zvezda-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Московская олимпиада школьников",
+      "url": "https://mosolymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Московская открытая олимпиада школьников по геологии",
+      "url": "https://geo.olymp.msu.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Оборонно-техническая олимпиада",
+      "url": "https://oboronteh.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Общероссийская олимпиада школьников \"Основы православной культуры\"",
+      "url": "https://opk.pravolimp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Объединенная межвузовская олимпиада школьников",
+      "url": "https://omus.msu.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Океан знаний",
+      "url": "https://oceanofknowledge.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада Курчатов",
+      "url": "https://kurchatov-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада МГИМО МИД России для школьников",
+      "url": "https://mgimo.ru/olympiad"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада по комплексу предметов \"Культура и искусство\"",
+      "url": "https://culture-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада по химии и химической технологии \"Потомки Менделеева\"",
+      "url": "https://mendeleev-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада по экономике \"Сибириада. Шаг в мечту\"",
+      "url": "https://sibiriada.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада РГГУ для школьников",
+      "url": "https://rsuh.ru/olympiad"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников \"Гранит науки\"",
+      "url": "https://granitnauki.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников \"Ломоносов\"",
+      "url": "https://olymp.msu.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников \"Надежда энергетики\"",
+      "url": "https://energy-hope.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников \"Покори Воробьевы горы!\"",
+      "url": "https://pvg.msu.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников \"Робофест\"",
+      "url": "https://robofest.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников \"Физтех\"",
+      "url": "https://olymp.mipt.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников \"Шаг в будущее\"",
+      "url": "https://step-into-the-future.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников по информатике и программированию",
+      "url": "https://olymp-it.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников по программированию \"ТехноКубок\"",
+      "url": "https://technocup.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников РАНХиГС",
+      "url": "https://ranepa.ru/olymp"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников СПбГУ",
+      "url": "https://olympiad.spbu.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада школьников РПА Минюста России \"В мир права\"",
+      "url": "https://rpa-mu.ru/olymp"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Олимпиада Юношеской математической школы",
+      "url": "https://yms.ru/olympiad"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Открытая межвузовская олимпиада школьников СФО \"Будущее Сибири\"",
+      "url": "https://future-siberia.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Открытая олимпиада СКФУ \"45 параллель\"",
+      "url": "https://ncfu.ru/olymp/45"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Открытая олимпиада школьников",
+      "url": "https://openolymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Открытая олимпиада школьников по программированию",
+      "url": "https://olympiads.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Открытая олимпиада школьников по программированию \"Когнитивные технологии\"",
+      "url": "https://cognitive-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Открытая региональная межвузовская олимпиада школьников (ОРМО)",
+      "url": "https://ormo-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Открытая химическая олимпиада",
+      "url": "https://chemolymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Отраслевая олимпиада школьников \"Газпром\"",
+      "url": "https://gazprom-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Отраслевая физико-математическая олимпиада школьников \"Росатом\"",
+      "url": "https://rosatom-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Пироговская олимпиада для школьников по химии и биологии",
+      "url": "https://pirogov-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Плехановская олимпиада школьников",
+      "url": "https://plekh-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Региональный конкурс школьников Челябинского университетского образовательного округа",
+      "url": "https://cuoo74.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Санкт-Петербургская астрономическая олимпиада",
+      "url": "https://astroolymp.spb.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Санкт-Петербургская олимпиада школьников",
+      "url": "https://spbolymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Северо-Восточная олимпиада школьников",
+      "url": "https://sever-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Сибирская межрегиональная олимпиада школьников \"Архитектурно-дизайнерское творчество\"",
+      "url": "https://archdesign-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Строгановская олимпиада",
+      "url": "https://stroganov-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Твой путь в настоящую науку",
+      "url": "https://science-path.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Телевизионная гуманитарная олимпиада школьников \"Умницы и умники\"",
+      "url": "https://umniki-olymp.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Турнир городов",
+      "url": "https://turgor.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Турнир имени М.В. Ломоносова",
+      "url": "https://turlom.ru"
+    }
+  },
+  {
+    "model": "core.olymps",
+    "fields": {
+      "full_name": "Университетская олимпиада школьников \"Бельчонок\"",
+      "url": "https://belchonok.ru"
+    }
+  }
+]
