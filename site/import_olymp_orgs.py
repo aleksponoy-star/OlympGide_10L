@@ -2,7 +2,7 @@ import os
 import sys
 import csv
 
-sys.path.append(os.path.dirname(os.path.dirname(file)))
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
 
 import django
@@ -15,32 +15,22 @@ with open('./core/olympiad_organizers.csv', encoding='utf-8', newline='') as f:
     reader = csv.DictReader(f)
 
     for row in reader:
-        olympiad = Olymps.objects.filter(
-            full_name=row['olympiad_name'].strip()
-        ).first()
+        olymp_name = row['olympiad_name'].strip()
+        org_name = row['organizer_name'].strip()
 
+        olympiad = Olymps.objects.filter(full_name=olymp_name).first()
+        if not olympiad:
+            print('НЕ НАЙДЕНА ОЛИМПИАДА:', olymp_name)
+            continue
 
-for item in data:
-    flds = item['fields']
-
-    olympiad = Olymps.objects.filter(
-        full_name=flds['olympiad_name']
-    ).first()
-
-    if not olympiad:
-        print('НЕ НАЙДЕНА ОЛИМПИАДА:', flds['olympiad_name'])
-        continue
-
-    orgs = None
-    if flds.get('orgs_name'):
-        pname = flds['orgs_name'].strip()
-        orgs = Orgs.objects.filter(name__iexact=pname).first()
+        orgs = Orgs.objects.filter(name__iexact=org_name).first()
         if not orgs:
-            print('НЕ НАЙДЕН ОРГАНИЗАТОР:', repr(pname))
+            print('НЕ НАЙДЕН ОРГАНИЗАТОР:', org_name)
+            continue
 
-    OlympOrgs.objects.create(
-        olympiad=olympiad,
-        orgs=orgs,
-    )
+        OlympOrgs.objects.get_or_create(
+            olympiad=olympiad,
+            orgs=orgs,
+        )
 
 print('OK')
