@@ -61,7 +61,11 @@ class OlympNapr(models.Model):
 class OlympOrgs(models.Model):
     olympiad = models.ForeignKey(Olymps, on_delete=models.CASCADE)
     orgs = models.ForeignKey(Orgs, on_delete=models.CASCADE)
+
     class Meta:
-        unique_together = ('olympiad', 'organisator')
-        verbose_name = 'Олимпиада – организатор'
-        verbose_name_plural = 'Олимпиады – организаторы'
+        unique_together = ('olympiad', 'orgs')
+        verbose_name = 'олимпиада – организатор'
+        verbose_name_plural = 'олимпиады – организаторы'
+
+    def str(self):
+        return f'{self.olympiad} — {self.orgs}' 
