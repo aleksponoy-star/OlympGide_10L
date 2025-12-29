@@ -54,4 +54,14 @@ class OlympNapr(models.Model):
     profil = models.ForeignKey(Profil, on_delete=models.SET_NULL, null=True, blank=True)
     predmet = models.ForeignKey(Predmet, on_delete=models.SET_NULL, null=True, blank=True)
     level = models.ForeignKey(Level, on_delete=models.SET_NULL, null=True, blank=True)
-  
+
+    def __str__(self):
+        return self.full_name   
+
+class OlympOrgs(models.Model):
+    olympiad = models.ForeignKey(Olymps, on_delete=models.CASCADE)
+    orgs = models.ForeignKey(Orgs, on_delete=models.CASCADE)
+    class Meta:
+        unique_together = ('olympiad', 'organisator')
+        verbose_name = 'Олимпиада – организатор'
+        verbose_name_plural = 'Олимпиады – организаторы'
